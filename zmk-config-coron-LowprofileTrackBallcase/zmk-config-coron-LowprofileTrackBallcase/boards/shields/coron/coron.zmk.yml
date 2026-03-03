@@ -1,0 +1,8 @@
+file_format: "1"
+id: coron
+name: coron
+type: shield
+url: https://github.com/keebJP/zmk-config-coron
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

@@ -1,0 +1,4 @@
+name: coron
+build:
+  settings:
+    board_root: .
